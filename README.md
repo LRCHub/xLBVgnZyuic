@@ -1,0 +1,42 @@
+# The Beatles – I Feel Fine (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.75] Baby's good to me, you know
+[00:18.14] She's happy as can be, you know
+[00:21.28] She said so
+[00:26.78] 
+[00:24.13] I'm in love with her and I feel fine
+[00:42.13] 
+[00:28.72] Baby says she's mine, you know
+[00:31.94] She tells me all the time, you know
+[00:34.01] She said so
+[00:39.51] 
+[00:37.38] I'm in love with her and I feel fine
+[00:55.38] 
+[00:42.97] I'm so glad that she's my little girl
+[00:48.22] She's so glad, she's telling all the world
+[01:09.22] 
+[00:53.23] That here baby buys her things, you know
+[00:56.42] He buys her diamond rings, you know
+[00:58.81] She said so
+[01:04.31] 
+[01:01.89] She's in love with me and I feel fine, mmm
+[01:22.89] 
+[01:25.91] Baby says she's mine, you know
+[01:28.23] She tells me all the time, you know
+[01:30.67] She said so
+[01:36.17] 
+[01:33.95] I'm in love with her and I feel fine
+[01:51.95] 
+[01:39.22] I'm so glad that she's my little girl
+[01:44.62] She's so glad, she's telling all the world
+[02:05.62] 
+[01:49.48] That her baby buys her things, you know
+[01:52.69] He buys her diamond rings, you know
+[01:55.10] She said so
+[02:00.60] 
+[01:58.23] She's in love with me and I feel fine
+[02:03.47] She's in love with me and I feel fine, mmm
+```
